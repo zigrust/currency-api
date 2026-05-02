@@ -1,0 +1,16 @@
+{
+  "name": "currency-exchange-api",
+  "version": "1.0.0",
+  "description": "Lightweight Currency Exchange Rate API for Vercel deployment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": ["currency", "exchange", "rates", "api", "vercel"],
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.x"
+  },
+  "dependencies": {}
+}
